@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.2e80bd19.css",
+    "main.js": "/landingpage/static/js/main.a5b93c4c.js",
+    "static/media/fa-solid-900.ttf": "/landingpage/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/landingpage/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/landingpage/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/c1.jpg": "/landingpage/static/media/c1.61c6c4af86033cd8c3cd.jpg",
+    "static/media/c2.jpg": "/landingpage/static/media/c2.5052cd29305ce32057c5.jpg",
+    "static/media/fa-brands-400.woff2": "/landingpage/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/landingpage/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/m1.jpg": "/landingpage/static/media/m1.750a0413e05b2c83231a.jpg",
+    "static/media/d4.jpg": "/landingpage/static/media/d4.ddf1aaaa095073d0e0f8.jpg",
+    "static/media/d3.jpg": "/landingpage/static/media/d3.a9010ad67784358d1cb5.jpg",
+    "static/media/care-hospital-logo.jpg": "/landingpage/static/media/care-hospital-logo.567ececa858883774671.jpg",
+    "static/media/fa-regular-400.woff2": "/landingpage/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/d1.jpg": "/landingpage/static/media/d1.db885b4da07cdf6f60d8.jpg",
+    "static/media/d5.jpg": "/landingpage/static/media/d5.d3808ac88dd09cac7454.jpg",
+    "static/media/a4.jpg": "/landingpage/static/media/a4.a8edbe04bb1bbff578a4.jpg",
+    "static/media/fa-v4compatibility.ttf": "/landingpage/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/landingpage/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/landingpage/index.html",
+    "main.2e80bd19.css.map": "/landingpage/static/css/main.2e80bd19.css.map",
+    "main.a5b93c4c.js.map": "/landingpage/static/js/main.a5b93c4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e80bd19.css",
+    "static/js/main.a5b93c4c.js"
+  ]
+}
